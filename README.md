@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+NAMA : Ahmad Hayazee 
+NIM : 231080200116
+KELAS : A2
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
